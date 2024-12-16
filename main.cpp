@@ -33,6 +33,7 @@ start:
     cout << "10. City name" << endl;
     cout << "11. Delete number" << endl;
     cout << "12. Connect" << endl;
+    cout << "13. Find numbers in string" << endl;
     cout << "0 for exit." << endl;
     cout << "Enter choice:" << endl;
     cin >> choice;
